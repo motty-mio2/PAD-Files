@@ -1,0 +1,17 @@
+<shape aspect="variable" h="211" w="200" strokewidth="inherit">
+    <connections>
+        <constraint x="0.5" y="0" perimeter="0" name="N"/>
+        <constraint x="0.5" y="1" perimeter="0" name="S"/>
+        <constraint x="0" y="0.5" perimeter="0" name="W"/>
+        <constraint x="1" y="0.5" perimeter="0" name="E"/>
+        <constraint x="0" y="0" perimeter="0" name="NW"/>
+        <constraint x="1" y="0" perimeter="0" name="NE"/>
+        <constraint x="1" y="1" perimeter="0" name="SE"/>
+        <constraint x="0" y="1" perimeter="0" name="SW"/>
+    </connections>
+    <background>
+        <strokecolor color="#000000"/>
+        <fillcolor color="#ffffff"/>
+        <rect h="200" w="200" x="0" y="11"/>
+    </background>
+</shape>
