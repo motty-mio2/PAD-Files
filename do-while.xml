@@ -11,19 +11,19 @@
     </connections>
     <background>
         <filstroke />
+
+        <rect x="0" y="20" w="100" h="100" />
         <stroke />
     </background>
     <foreground>
         <filstroke />
         <path>
             <move x="0" y="0" />
+            <line x="0" y="20" />
+            <move x="0" y="120" />
             <line x="0" y="140" />
-
-            <move x="0" y="20" />
-            <line x="100" y="20" />
-            <line x="70" y="50" />
-            <line x="100" y="80" />
-            <line x="0" y="80"/>
+            <move x="20" y="20" />
+            <line x="20" y="80" />
         </path>
         <stroke />
     </foreground>
